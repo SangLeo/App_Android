@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BocTham</string>
+    <string name="textView">Bốc Thăm Trúng Thưởng</string>
+    <string name="button">Bốc Thăm</string>
+</resources>

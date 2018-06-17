@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PhieuDangKy</string>
+    <string name="toan">Toán</string>
+    <string name="van">Văn</string>
+    <string name="anh">Anh</string>
+    <string name="hoa">Hóa</string>
+    <string name="ly">Lý</string>
+    <string name="dangky">Đăng Ký</string>
+</resources>

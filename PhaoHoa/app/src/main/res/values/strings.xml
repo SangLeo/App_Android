@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PhaoHoa</string>
+    <string name="click">COUNT DOWN</string>
+    <string name="runtime">0.0</string>
+    <string name="textView">Text View</string>
+    <string name="nhapso">Nhập số vào đây</string>
+</resources>
